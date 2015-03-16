@@ -10,4 +10,7 @@ Demonsaw is a type of decentralized Cloud network. It takes the best features fr
 Secure, Anonymous, Free, Everywhere. Believe in the Right to Share.
 
 -Eijah
-March 16, 2015
+
+Want to help? Let me know...
+https://twitter.com/demon_saw
+eijah@demonsaw.com 
