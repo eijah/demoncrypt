@@ -1,20 +1,9 @@
-     _                                                  _   
-    | |                                                | |  
-  __| | ___ _ __ ___   ___  _ __   ___ _ __ _   _ _ __ | |_ 
- / _` |/ _ \ '_ ` _ \ / _ \| '_ \ / __| '__| | | | '_ \| __|
-| (_| |  __/ | | | | | (_) | | | | (__| |  | |_| | |_) | |_ 
- \__,_|\___|_| |_| |_|\___/|_| |_|\___|_|   \__, | .__/ \__|
-                                             __/ | |        
-                                            |___/|_|   
-
-demoncrypt 2.0
-Copyright 2014-2015 Demonsaw LLC All Rights Reserved
-Believe in the Right to Share
-https://www.demonsaw.com
-
 [overview]
 -------------------------------------------------------------------------------
-Believe in the Right to Share.
+demoncrypt 2.0
+Believe in the Right to Share
+Copyright 2014-2015 Demonsaw LLC All Rights Reserved
+https://www.demonsaw.com
 
 Demoncrypt is a lightweight C++ wrapper around some of the more common crypto routines in Crypto++.  Demoncrypt is the open-source crypto layer used in demonsaw.  It's free and open-source.  Use it however you want.
 
