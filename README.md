@@ -2,7 +2,6 @@
 -------------------------------------------------------------------------------
 demoncrypt 2.0
 Believe in the Right to Share
-Copyright 2014-2015 Demonsaw LLC All Rights Reserved
 https://www.demonsaw.com
 
 Demoncrypt is a lightweight C++ wrapper around some of the more common crypto routines in Crypto++.  Demoncrypt is the open-source crypto layer used in demonsaw.  It's free and open-source.  Use it however you want.
