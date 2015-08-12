@@ -39,7 +39,7 @@ Just copy the security and system folders into your project workspace.  Update y
 
 [questions]
 https://twitter.com/demon_saw
-eijah@demonsaw.com
+eijah at demonsaw dot com
 
 
 -Eijah
