@@ -1,16 +1,57 @@
-# demonsaw
-Welcome to the Future of File Sharing...
+     _                                                  _   
+    | |                                                | |  
+  __| | ___ _ __ ___   ___  _ __   ___ _ __ _   _ _ __ | |_ 
+ / _` |/ _ \ '_ ` _ \ / _ \| '_ \ / __| '__| | | | '_ \| __|
+| (_| |  __/ | | | | | (_) | | | | (__| |  | |_| | |_) | |_ 
+ \__,_|\___|_| |_| |_|\___/|_| |_|\___|_|   \__, | .__/ \__|
+                                             __/ | |        
+                                            |___/|_|   
 
-Demonsaw is a new type of file sharing application that allows you to share your files securely. It's the next leap in the evolution of file sharing. Demonsaw is designed to protect your anonymity and hide what you're sharing. Your IP address is never revealed to the world. Share whatever you want, with whomever you want, without fear or consequence.
+demoncrypt 2.0
+Copyright 2014-2015 Demonsaw LLC All Rights Reserved
+Believe in the Right to Share
+https://www.demonsaw.com
 
-Every file sharing application over the past 45+ years has had 3 common elements: the ability to upload/download files, the ability to control program flow, and the ability to transfer data. Demonsaw is different from other file sharing applications because it breaks up these different types of abilities into separate network components that act autonomously. By doing this demonsaw creates an extra layer of abstraction that completely secures your file sharing.
+[overview]
+-------------------------------------------------------------------------------
+Believe in the Right to Share.
 
-Demonsaw is a type of decentralized Cloud network. It takes the best features from centralized applications, like the Dropbox, and decentralized applications, like BitTorrent, and merges them into a seamless new type of hybrid file sharing application. By levering your home Internet access, you become your own private file sharing network.
+Demoncrypt is a lightweight C++ wrapper around some of the more common crypto routines in Crypto++.  Demoncrypt is the open-source crypto layer used in demonsaw.  It's free and open-source.  Use it however you want.
 
-Secure, Anonymous, Free, Everywhere. Believe in the Right to Share.
+[prerequisites]
+-------------------------------------------------------------------------------
+* C++ 11 compliant compiler (gcc 4.7, MSVC 2013, or greater)
+* Cryptop++ 5.6.2 (www.cryptopp.com)
+
+[contents]
+-------------------------------------------------------------------------------
+/security/
+	aes.h
+	base.h
+	block_cipher.cpp
+	block_cipher.h
+	checksum.h
+	diffie_hellman.cpp
+	diffie_hellman.h
+	filter.h
+	hash.h
+	hex.h
+	hmac.h
+	md.h
+	pbkdf.h
+	security.cpp
+	security.h
+	sha.h
+/system/
+	type.h
+
+[setup]
+-------------------------------------------------------------------------------
+Just copy the security and system folders into your project workspace.  Update your project/solution/makefiles accordingly.  Include the appropriate files in your *.h/*.cpp source.  Build.  Enjoy!
+
+[questions]
+https://twitter.com/demon_saw
+eijah@demonsaw.com
+
 
 -Eijah
-
-Want to help? Let me know...
-https://twitter.com/demon_saw
-eijah@demonsaw.com 
